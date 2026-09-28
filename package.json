@@ -1,0 +1,15 @@
+{
+  "name": "tn-transit-depot-directory",
+  "version": "1.0.0",
+  "private": true,
+  "description": "TN Transit depot directory with a small Node.js backend",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^18.0.2",
+    "express": "^5.2.1",
+    "pg": "^8.23.0"
+  }
+}
